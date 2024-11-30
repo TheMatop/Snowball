@@ -8,8 +8,6 @@ import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.plugin.java.JavaPlugin;
-
-import java.awt.*;
 import java.util.Random;
 
 public final class Snowball extends JavaPlugin implements Listener {
